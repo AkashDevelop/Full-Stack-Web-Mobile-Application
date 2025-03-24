@@ -67,5 +67,5 @@ uvicorn main:app --reload
 ### Frontend Setup:
 
 1.Navigate to the  `frontend` directory:
- ```bash
+  ```bash
    cd frontend
