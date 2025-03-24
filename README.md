@@ -68,4 +68,4 @@ uvicorn main:app --reload
 
 1.Navigate to the  `frontend` directory:
   ```bash
-   cd frontend
+  cd frontend
